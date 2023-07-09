@@ -1,0 +1,1103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2023-07-08T14:37:45Z</time></metadata><wpt lat="55.9423494" lon="-4.8787982"><name>Cloch Lighthouse</name><desc>man_made=lighthouse
+name=Cloch Lighthouse
+seamark:light:character=Fl
+seamark:light:colour=white
+seamark:light:height=24
+seamark:light:period=3
+seamark:light:range=8
+seamark:light:reference=A 4404
+seamark:light:sequence=0.6+(2.4)
+seamark:name=Cloch Point
+seamark:type=light_minor
+source=Bing
+wikidata=Q5134766
+wikipedia=en:Cloch</desc><link href="http://osm.org/browse/node/278862447"/></wpt><wpt lat="55.9374833" lon="-4.6875333"><name>Perch Light</name><desc>man_made=lighthouse
+name=Perch Light
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=7
+seamark:light:range=9
+seamark:light:reference=A 4476
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.
+wikidata=Q15124558</desc><link href="http://osm.org/browse/node/1556263284"/></wpt><wpt lat="55.9434" lon="-4.7141833"><name>node/1556263344</name><desc>seamark:light:character=Q
+seamark:light:colour=green
+seamark:light:height=7
+seamark:light:range=2
+seamark:light:reference=A 4472
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263344"/></wpt><wpt lat="55.9467333" lon="-4.7258833"><name>node/1556263364</name><desc>seamark:light:character=Oc
+seamark:light:colour=green
+seamark:light:height=9
+seamark:light:period=10
+seamark:light:range=4
+seamark:light:reference=A 4470
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263364"/></wpt><wpt lat="55.9461" lon="-4.7450333"><name>node/1556263397</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=7
+seamark:light:multiple=2
+seamark:light:reference=A 4458
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263397"/></wpt><wpt lat="55.9542833" lon="-4.7665"><name>node/1556263549</name><desc>seamark:light:category=upper
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=33
+seamark:light:reference=A 4442.1
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263549"/></wpt><wpt lat="55.95745" lon="-4.7650833"><name>node/1556263635</name><desc>seamark:light:category=lower
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=18
+seamark:light:reference=A 4442
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263635"/></wpt><wpt lat="55.9575833" lon="-4.7650167"><name>node/1556263671</name><desc>seamark:light:character=Q
+seamark:light:colour=green
+seamark:light:height=8
+seamark:light:range=8
+seamark:light:reference=A 4444
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263671"/></wpt><wpt lat="55.9601333" lon="-4.7764167"><name>node/1556263758</name><desc>seamark:light:category=upper
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=9
+seamark:light:range=12
+seamark:light:reference=A 4440
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263758"/></wpt><wpt lat="55.9603667" lon="-4.7763"><name>node/1556263847</name><desc>seamark:light:category=lower
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=7
+seamark:light:range=12
+seamark:light:reference=A 4438
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263847"/></wpt><wpt lat="56.0728407" lon="-4.8287004"><name>node/1556263976</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=10
+seamark:light:multiple=2
+seamark:light:range=5
+seamark:light:reference=A 4428.8
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556263976"/></wpt><wpt lat="56.0704171" lon="-4.8280151"><name>node/1556264038</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:height=10
+seamark:light:multiple=2
+seamark:light:reference=A 4428.6
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556264038"/></wpt><wpt lat="56.0707165" lon="-4.8281019"><name>node/1556264092</name><desc>seamark:light:1:character=Iso
+seamark:light:1:colour=green
+seamark:light:1:height=10
+seamark:light:1:period=4
+seamark:light:1:range=14
+seamark:light:1:sector_end=356
+seamark:light:1:sector_start=351
+seamark:light:2:character=Iso
+seamark:light:2:colour=white
+seamark:light:2:height=10
+seamark:light:2:period=4
+seamark:light:2:range=14
+seamark:light:2:sector_end=6
+seamark:light:2:sector_start=356
+seamark:light:3:character=Iso
+seamark:light:3:colour=red
+seamark:light:3:height=10
+seamark:light:3:period=4
+seamark:light:3:range=14
+seamark:light:3:sector_end=11
+seamark:light:3:sector_start=6
+seamark:light:reference=A 4428.7
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556264092"/></wpt><wpt lat="56.0597365" lon="-4.8199662"><name>node/1556264297</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=7
+seamark:light:multiple=2
+seamark:light:reference=A 4427.9
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556264297"/></wpt><wpt lat="56.0552691" lon="-4.8206722"><name>node/1556264415</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=14
+seamark:light:multiple=2
+seamark:light:range=5
+seamark:light:reference=A 4427.6
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556264415"/></wpt><wpt lat="56.0517062" lon="-4.8198874"><name>node/1556264533</name><desc>seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:height=3
+seamark:light:period=5
+seamark:light:range=2
+seamark:light:reference=A 4427.5
+seamark:light:sequence=0.5+(4.5)
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556264533"/></wpt><wpt lat="56.0524641" lon="-4.8207342"><name>node/1556265424</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:multiple=2
+seamark:light:reference=A 4427.45
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556265424"/></wpt><wpt lat="56.0527258" lon="-4.8196856"><name>node/1556265454</name><desc>seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:height=11
+seamark:light:period=5
+seamark:light:range=5
+seamark:light:reference=A 4427.4
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556265454"/></wpt><wpt lat="56.0623333" lon="-4.8410667"><name>node/1556265498</name><desc>seamark:light:1:character=Q
+seamark:light:1:colour=green
+seamark:light:1:group=4
+seamark:light:1:height=8
+seamark:light:1:period=8
+seamark:light:1:range=14
+seamark:light:1:sector_end=330
+seamark:light:1:sector_start=328.5
+seamark:light:2:character=Q
+seamark:light:2:colour=white
+seamark:light:2:group=4
+seamark:light:2:height=8
+seamark:light:2:period=8
+seamark:light:2:range=14
+seamark:light:2:sector_end=332
+seamark:light:2:sector_start=330
+seamark:light:3:character=Q
+seamark:light:3:colour=red
+seamark:light:3:group=4
+seamark:light:3:height=8
+seamark:light:3:period=8
+seamark:light:3:range=14
+seamark:light:3:sector_end=333
+seamark:light:3:sector_start=332
+seamark:light:reference=A 4426.5
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556265498"/></wpt><wpt lat="56.0140167" lon="-4.7891"><name>node/1556265604</name><desc>seamark:light:character=Fl
+seamark:light:colour=white
+seamark:light:height=6
+seamark:light:period=3
+seamark:light:range=6
+seamark:light:reference=A 4426
+seamark:light:sequence=0.4+(2.6)
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556265604"/></wpt><wpt lat="56.0031667" lon="-4.7750167"><name>node/1556265639</name><desc>seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:group=2
+seamark:light:height=8
+seamark:light:period=10
+seamark:light:range=6
+seamark:light:reference=A 4425
+seamark:light:sequence=0.8+(1.4)+0.8+(7)
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556265639"/></wpt><wpt lat="56.0157667" lon="-4.7865833"><name>node/1556265726</name><desc>seamark:light:1:character=Q
+seamark:light:1:colour=green
+seamark:light:1:group=3
+seamark:light:1:height=9
+seamark:light:1:period=6
+seamark:light:1:range=13
+seamark:light:1:sector_end=0
+seamark:light:1:sector_start=270
+seamark:light:2:character=Q
+seamark:light:2:colour=white
+seamark:light:2:group=3
+seamark:light:2:height=9
+seamark:light:2:period=6
+seamark:light:2:range=16
+seamark:light:2:sector_end=114
+seamark:light:2:sector_start=0
+seamark:light:3:character=Q
+seamark:light:3:colour=red
+seamark:light:3:group=3
+seamark:light:3:height=9
+seamark:light:3:period=6
+seamark:light:3:range=13
+seamark:light:3:sector_end=188
+seamark:light:3:sector_start=114
+seamark:light:4:character=Al
+seamark:light:4:colour=green;white
+seamark:light:4:group=3
+seamark:light:4:height=9
+seamark:light:4:period=6
+seamark:light:4:range=13
+seamark:light:4:sector_end=317
+seamark:light:4:sector_start=315
+seamark:light:5:character=F
+seamark:light:5:colour=white
+seamark:light:5:group=3
+seamark:light:5:height=9
+seamark:light:5:period=6
+seamark:light:5:range=16
+seamark:light:5:sector_end=319
+seamark:light:5:sector_start=317
+seamark:light:6:character=Al
+seamark:light:6:colour=red;white
+seamark:light:6:group=3
+seamark:light:6:height=9
+seamark:light:6:period=6
+seamark:light:6:range=13
+seamark:light:6:sector_end=321
+seamark:light:6:sector_start=319
+seamark:light:7:character=F
+seamark:light:7:colour=red
+seamark:light:7:group=3
+seamark:light:7:height=9
+seamark:light:7:period=6
+seamark:light:7:range=13
+seamark:light:7:sector_end=325
+seamark:light:7:sector_start=321
+seamark:light:reference=A 4422.5
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556265726"/></wpt><wpt lat="56.0065" lon="-4.7916167"><name>node/1556269201</name><desc>seamark:information=Visible 150° - 330°
+seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=red
+seamark:light:multiple=2
+seamark:light:range=5
+seamark:light:reference=A 4425.5
+seamark:light:visibility=part_obscured
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556269201"/></wpt><wpt lat="56.0111758" lon="-4.7952886"><name>node/1556269240</name><desc>seamark:beacon_lateral:category=port
+seamark:beacon_lateral:colour=red
+seamark:beacon_lateral:system=iala-a
+seamark:light:1:character=Al
+seamark:light:1:colour=green;white
+seamark:light:1:height=5
+seamark:light:1:range=13
+seamark:light:1:sector_end=294
+seamark:light:1:sector_start=291
+seamark:light:2:character=F
+seamark:light:2:colour=white
+seamark:light:2:height=5
+seamark:light:2:range=16
+seamark:light:2:sector_end=296
+seamark:light:2:sector_start=294
+seamark:light:3:character=Al
+seamark:light:3:colour=red;white
+seamark:light:3:height=5
+seamark:light:3:sector_end=299
+seamark:light:3:sector_start=296
+seamark:light:4:colour=red
+seamark:light:4:height=5
+seamark:light:4:sector_end=301
+seamark:light:4:sector_start=299
+seamark:light:reference=A 4423
+seamark:name=No.2N
+seamark:topmark:colour=red
+seamark:topmark:shape=cylinder
+seamark:type=beacon_lateral
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556269240"/></wpt><wpt lat="56.0012167" lon="-4.7785667"><name>node/1556269282</name><desc>seamark:light:1:character=F
+seamark:light:1:colour=green
+seamark:light:1:height=9
+seamark:light:1:range=13
+seamark:light:1:sector_end=145
+seamark:light:1:sector_start=144
+seamark:light:2:character=Al
+seamark:light:2:colour=green;white
+seamark:light:2:height=9
+seamark:light:2:range=13
+seamark:light:2:sector_end=148
+seamark:light:2:sector_start=145
+seamark:light:3:character=F
+seamark:light:3:colour=white
+seamark:light:3:height=9
+seamark:light:3:range=16
+seamark:light:3:sector_end=150
+seamark:light:3:sector_start=148
+seamark:light:4:character=Al
+seamark:light:4:colour=red;white
+seamark:light:4:height=9
+seamark:light:4:range=13
+seamark:light:4:sector_end=153
+seamark:light:4:sector_start=150
+seamark:light:5:character=F
+seamark:light:5:colour=red
+seamark:light:5:height=9
+seamark:light:5:range=13
+seamark:light:5:sector_end=154
+seamark:light:5:sector_start=153
+seamark:light:reference=A 4423.5
+seamark:name=No.3N
+seamark:type=light_major
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556269282"/></wpt><wpt lat="56.0009167" lon="-4.75595"><name>node/1556269402</name><desc>seamark:light:1:category=lower
+seamark:light:1:character=Al
+seamark:light:1:colour=green;white
+seamark:light:1:height=5
+seamark:light:1:range=13
+seamark:light:1:sector_end=355
+seamark:light:1:sector_start=353
+seamark:light:2:category=lower
+seamark:light:2:character=F
+seamark:light:2:colour=white
+seamark:light:2:height=5
+seamark:light:2:range=16
+seamark:light:2:sector_end=357
+seamark:light:2:sector_start=355
+seamark:light:3:category=lower
+seamark:light:3:character=Al
+seamark:light:3:colour=red;white
+seamark:light:3:height=5
+seamark:light:3:sector_end=0
+seamark:light:3:sector_start=357
+seamark:light:4:category=lower
+seamark:light:4:character=F
+seamark:light:4:colour=red
+seamark:light:4:height=5
+seamark:light:4:sector_end=2
+seamark:light:4:sector_start=0
+seamark:light:5:category=lower
+seamark:light:5:character=Al
+seamark:light:5:colour=green;white
+seamark:light:5:height=5
+seamark:light:5:range=13
+seamark:light:5:sector_end=114
+seamark:light:5:sector_start=111
+seamark:light:6:category=lower
+seamark:light:6:character=F
+seamark:light:6:colour=white
+seamark:light:6:height=5
+seamark:light:6:range=16
+seamark:light:6:sector_end=116
+seamark:light:6:sector_start=114
+seamark:light:7:category=lower
+seamark:light:7:character=Al
+seamark:light:7:colour=red;white
+seamark:light:7:height=5
+seamark:light:7:sector_end=119
+seamark:light:7:sector_start=116
+seamark:light:8:category=lower
+seamark:light:8:character=F
+seamark:light:8:colour=red
+seamark:light:8:height=5
+seamark:light:8:sector_end=121
+seamark:light:8:sector_start=119
+seamark:light:reference=A 4422
+seamark:name=No.7N
+seamark:type=light_major
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556269402"/></wpt><wpt lat="55.9852167" lon="-4.7313833"><name>node/1556269463</name><desc>seamark:beacon_special_purpose:colour=yellow
+seamark:light:character=VQ
+seamark:light:colour=yellow
+seamark:light:group=4
+seamark:light:height=9
+seamark:light:period=5
+seamark:light:reference=A 4421.2
+seamark:name=No.1
+seamark:topmark:colour=yellow
+seamark:topmark:shape=x-shape
+seamark:type=beacon_special_purpose
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556269463"/></wpt><wpt lat="55.9752337" lon="-4.7902971"><name>node/1556269508</name><desc>seamark:light:character=Fl
+seamark:light:colour=white
+seamark:light:group=2
+seamark:light:height=5
+seamark:light:period=10
+seamark:light:range=10
+seamark:light:reference=A 4420
+seamark:topmark:colour=black
+seamark:topmark:shape=2 spheres
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556269508"/></wpt><wpt lat="55.9847833" lon="-4.7367333"><name>node/1556269587</name><desc>seamark:light:1:character=F
+seamark:light:1:colour=green
+seamark:light:1:height=4
+seamark:light:1:range=13
+seamark:light:1:sector_end=77.5
+seamark:light:1:sector_start=75
+seamark:light:2:character=Al
+seamark:light:2:colour=green;white
+seamark:light:2:height=4
+seamark:light:2:range=13
+seamark:light:2:sector_end=79.5
+seamark:light:2:sector_start=77.5
+seamark:light:3:character=F
+seamark:light:3:colour=white
+seamark:light:3:height=4
+seamark:light:3:range=16
+seamark:light:3:sector_end=80.5
+seamark:light:3:sector_start=79.5
+seamark:light:4:character=Al
+seamark:light:4:colour=red;white
+seamark:light:4:height=4
+seamark:light:4:sector_end=82.5
+seamark:light:4:sector_start=80.5
+seamark:light:5:character=F
+seamark:light:5:colour=red
+seamark:light:5:height=4
+seamark:light:5:sector_end=85
+seamark:light:5:sector_start=82.5
+seamark:light:6:character=F
+seamark:light:6:colour=green
+seamark:light:6:height=4
+seamark:light:6:range=13
+seamark:light:6:sector_end=134
+seamark:light:6:sector_start=132
+seamark:light:7:character=Al
+seamark:light:7:colour=green;white
+seamark:light:7:height=4
+seamark:light:7:range=13
+seamark:light:7:sector_end=137
+seamark:light:7:sector_start=134
+seamark:light:8:character=F
+seamark:light:8:colour=white
+seamark:light:8:height=4
+seamark:light:8:range=16
+seamark:light:8:sector_end=139
+seamark:light:8:sector_start=137
+seamark:light:9:character=Al
+seamark:light:9:colour=red;white
+seamark:light:9:height=4
+seamark:light:9:sector_end=142
+seamark:light:9:sector_start=139
+seamark:light:reference=A 4421
+seamark:name=No.8N
+seamark:type=light_major
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556269587"/></wpt><wpt lat="56.0669371" lon="-4.8748584"><name>node/1556270819</name><desc>seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:height=6
+seamark:light:period=12
+seamark:light:range=2
+seamark:light:reference=A 4410.32
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556270819"/></wpt><wpt lat="56.065382" lon="-4.8761799"><name>node/1556270886</name><desc>seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:height=6
+seamark:light:period=12
+seamark:light:reference=A 4410.3
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556270886"/></wpt><wpt lat="56.0625667" lon="-4.8940167"><name>node/1556270927</name><desc>seamark:information=Visible 206° - 026°
+seamark:light:character=Fl
+seamark:light:colour=white
+seamark:light:height=8
+seamark:light:period=6
+seamark:light:range=11
+seamark:light:reference=A 4411
+seamark:light:sequence=0.7+(5.3)
+seamark:light:visibility=part_obscured
+seamark:name=Port Dornaige
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556270927"/></wpt><wpt lat="56.0357167" lon="-4.9062"><name>node/1556271012</name><desc>seamark:landmark:category=tower
+seamark:landmark:colour=white
+seamark:landmark:construction=framework
+seamark:light:1:character=F
+seamark:light:1:colour=red
+seamark:light:1:height=9
+seamark:light:1:period=4
+seamark:light:1:range=10
+seamark:light:1:sector_end=203
+seamark:light:1:sector_start=201.5
+seamark:light:2:character=Al
+seamark:light:2:colour=red;white
+seamark:light:2:height=9
+seamark:light:2:period=4
+seamark:light:2:range=10
+seamark:light:2:sector_end=203.5
+seamark:light:2:sector_start=203
+seamark:light:3:character=F
+seamark:light:3:colour=white
+seamark:light:3:height=9
+seamark:light:3:period=4
+seamark:light:3:range=10
+seamark:light:3:sector_end=204.5
+seamark:light:3:sector_start=203.5
+seamark:light:4:character=Al
+seamark:light:4:colour=green;white
+seamark:light:4:height=9
+seamark:light:4:period=4
+seamark:light:4:range=10
+seamark:light:4:sector_end=205
+seamark:light:4:sector_start=204.5
+seamark:light:5:character=F
+seamark:light:5:colour=green
+seamark:light:5:height=9
+seamark:light:5:period=4
+seamark:light:5:range=10
+seamark:light:5:sector_end=206.5
+seamark:light:5:sector_start=205
+seamark:light:6:character=Fl
+seamark:light:6:colour=white
+seamark:light:6:height=12
+seamark:light:6:period=4
+seamark:light:6:range=10
+seamark:light:6:sequence=0.7+(3.3)
+seamark:light:reference=A 4409
+seamark:name=Ravenrock
+seamark:radio_station:category=ais
+seamark:type=landmark
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556271012"/></wpt><wpt lat="55.9586" lon="-4.8088333"><name>node/1556271156</name><desc>seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:height=4
+seamark:light:period=5
+seamark:light:range=3
+seamark:light:reference=A 4416
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556271156"/></wpt><wpt lat="55.9579833" lon="-4.8103"><name>node/1556271276</name><desc>seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:height=4
+seamark:light:period=5
+seamark:light:range=3
+seamark:light:reference=A 4417
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556271276"/></wpt><wpt lat="55.9710135" lon="-4.9080174"><name>node/1556271613</name><desc>seamark:information=134
+seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=red
+seamark:light:height=6
+seamark:light:multiple=2
+seamark:light:range=6
+seamark:light:reference=A 4406
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556271613"/></wpt><wpt lat="55.9520833" lon="-4.8526667"><name>node/1556271733</name><desc>seamark:information=103
+seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=5
+seamark:light:multiple=2
+seamark:light:range=6
+seamark:light:reference=A 4405
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556271733"/></wpt><wpt lat="55.9472091" lon="-4.9210563"><name>node/1556271859</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=red
+seamark:light:height=5
+seamark:light:multiple=2
+seamark:light:range=6
+seamark:light:reference=A 4400.2
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.</desc><link href="http://osm.org/browse/node/1556271859"/></wpt><wpt lat="55.940799" lon="-4.9180688"><name>Gantock Rocks Light</name><desc>ele=13
+man_made=lighthouse
+name=Gantock Rocks Light
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:height=12
+seamark:light:period=6
+seamark:light:range=6
+seamark:light:reference=A 4398
+seamark:light:sequence=0.8+(5.2)
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.
+wikidata=Q28465883</desc><link href="http://osm.org/browse/node/1556271916"/></wpt><wpt lat="55.9757791" lon="-4.7418802"><name>MV Captayannis</name><desc>historic=wreck
+loc_name=The Sugar Boat
+name=MV Captayannis
+seamark:type=wreck
+source=survey;bing
+wikidata=Q11679478
+wikipedia=en:MV Captayannis
+wreck:visible_at_low_tide=yes</desc><link href="http://osm.org/browse/node/1683957974"/></wpt><wpt lat="55.9335556" lon="-4.5907778"><name>node/1683958052</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=2
+seamark:name=37
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958052"/></wpt><wpt lat="55.93875" lon="-4.6750278"><name>node/1683958054</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=4
+seamark:name=42
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958054"/></wpt><wpt lat="55.939" lon="-4.6819167"><name>node/1683958059</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=40
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958059"/></wpt><wpt lat="55.9391753" lon="-4.6248526"><name>node/1683958066</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958066"/></wpt><wpt lat="55.9400556" lon="-4.6915"><name>node/1683958087</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=4
+seamark:name=36
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958087"/></wpt><wpt lat="55.9403433" lon="-4.6359091"><name>Cardross</name><desc>name=Cardross
+seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958094"/></wpt><wpt lat="55.9410833" lon="-4.6971667"><name>node/1683958099</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=34
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958099"/></wpt><wpt lat="55.9439798" lon="-4.7078692"><name>node/1683958103</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 32
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958103"/></wpt><wpt lat="55.9456645" lon="-4.7134803"><name>node/1683958126</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 30
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958126"/></wpt><wpt lat="55.948226" lon="-4.7219803"><name>node/1683958131</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 28
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958131"/></wpt><wpt lat="55.9493409" lon="-4.7267462"><name>node/1683958137</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=4
+seamark:name=Garvel No 24
+seamark:type=buoy_lateral
+source=survey;bing</desc><link href="http://osm.org/browse/node/1683958137"/></wpt><wpt lat="55.9764444" lon="-4.7441944"><name>node/1683958140</name><desc>seamark:buoy_cardinal:category=west
+seamark:buoy_cardinal:colour=yellow;black;yellow
+seamark:buoy_cardinal:colour_pattern=horizontal
+seamark:buoy_cardinal:shape=pillar
+seamark:light:character=Q
+seamark:light:colour=white
+seamark:light:group=9
+seamark:light:period=15
+seamark:topmark:colour=black
+seamark:topmark:shape=2 cones point together
+seamark:type=buoy_cardinal
+source=survey</desc><link href="http://osm.org/browse/node/1683958140"/></wpt><wpt lat="55.9373984" lon="-4.6904646"><name>Port Glasgow Leading Light</name><desc>man_made=lighthouse
+name=Port Glasgow Leading Light
+seamark:light:1:character=F
+seamark:light:1:colour=green
+seamark:light:1:height=12
+seamark:light:1:range=12
+seamark:light:1:sector_end=290
+seamark:light:1:sector_start=210
+seamark:light:reference=A 4478
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.
+wikidata=Q17826485</desc><link href="http://osm.org/browse/node/2466033330"/></wpt><wpt lat="56.0133213" lon="-4.7729341"><name>Crhu Marine</name><desc>description=shop selling sailing supplies and equipment
+name=Crhu Marine
+seamark:small_craft_facility:category=chandler
+seamark:type=small_craft_facility
+shop=ship_chandler
+source=survey</desc><link href="http://osm.org/browse/node/6034189423"/></wpt><wpt lat="55.9684972" lon="-4.8444323"><name>3</name><desc>ele=0
+name=3
+seamark:buoy_safe_water:colour=red;white
+seamark:buoy_safe_water:colour_pattern=vertical
+seamark:buoy_safe_water:shape=pillar
+seamark:light:character=Iso
+seamark:light:colour=white
+seamark:light:period=5
+seamark:name=Ashton
+seamark:topmark:colour=red
+seamark:topmark:shape=sphere
+seamark:type=buoy_safe_water</desc><link href="http://osm.org/browse/node/6295491930"/></wpt><wpt lat="56.0127061" lon="-4.7726456"><name>node/8286010292</name><desc>crane:maxload=unknown
+crane:mobile=street
+crane:type=travel_lift
+man_made=crane
+seamark:small_craft_facility:category=boat_hoist
+seamark:type=small_craft_facility</desc><link href="http://osm.org/browse/node/8286010292"/></wpt><wpt lat="55.9592537" lon="-4.8161232"><name>node/9317806944</name><desc>depth=9.9
+seamark:obstruction:depth=9.9
+seamark:type=obstruction</desc><link href="http://osm.org/browse/node/9317806944"/></wpt><wpt lat="56.0660872" lon="-4.875713"><name>node/9364298158</name><desc>seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=red
+seamark:light:multiple=3
+seamark:light:range=8
+seamark:type=light_major</desc><link href="http://osm.org/browse/node/9364298158"/></wpt><wpt lat="55.9630278" lon="-4.8153889"><name>node/9372473036</name><desc>seamark:buoy_special_purpose:colour=yellow
+seamark:buoy_special_purpose:shape=pillar
+seamark:light:character=Fl
+seamark:light:colour=yellow
+seamark:light:group=5
+seamark:light:period=20
+seamark:name=M1
+seamark:type=buoy_special_purpose</desc><link href="http://osm.org/browse/node/9372473036"/></wpt><wpt lat="55.9959722" lon="-4.7580278"><name>node/9496319378</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=2
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/9496319378"/></wpt><wpt lat="56.0026948" lon="-4.7693043"><name>node/9496319379</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=4
+seamark:name=4
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/9496319379"/></wpt><wpt lat="56.007" lon="-4.7846667"><name>node/9496319380</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=6
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/9496319380"/></wpt><wpt lat="55.9841213" lon="-4.8195953"><name>Kilcreggan Pier</name><desc>leisure=marina
+name=Kilcreggan Pier
+seamark:harbour:category=marina
+seamark:type=harbour</desc><link href="http://osm.org/browse/node/9665082589"/></wpt><wpt lat="55.9827172" lon="-4.9398604"><name>Ardnadam Pier</name><desc>leisure=marina
+name=Ardnadam Pier
+seamark:harbour:category=marina
+seamark:type=harbour</desc><link href="http://osm.org/browse/node/9669874892"/></wpt><wpt lat="55.9466944" lon="-4.9203611"><name>node/10057171882</name><desc>seamark:buoy_special_purpose:colour=yellow
+seamark:buoy_special_purpose:shape=pillar
+seamark:light:character=Fl
+seamark:light:colour=yellow
+seamark:light:group=5
+seamark:light:period=20
+seamark:type=buoy_special_purpose</desc><link href="http://osm.org/browse/node/10057171882"/></wpt><wpt lat="55.9433333" lon="-4.8933333"><name>node/10057181955</name><desc>seamark:calling-in_point:orientation=48
+seamark:calling-in_point:traffic_flow=two-way
+seamark:type=calling-in_point</desc><link href="http://osm.org/browse/node/10057181955"/></wpt><wpt lat="56.0110173" lon="-4.7921258"><name>node/11028275631</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Q
+seamark:light:colour=red
+seamark:name=Rhu SW
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11028275631"/></wpt><wpt lat="55.9907425" lon="-4.7606474"><name>node/11033227322</name><desc>seamark:buoy_special_purpose:colour=yellow
+seamark:buoy_special_purpose:shape=can
+seamark:type=buoy_special_purpose</desc><link href="http://osm.org/browse/node/11033227322"/></wpt><wpt lat="55.997493" lon="-4.7522092"><name>node/11033227323</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5
+seamark:name=Row
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227323"/></wpt><wpt lat="55.9836293" lon="-4.761605"><name>node/11033227324</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=Ard No 10
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227324"/></wpt><wpt lat="55.9826734" lon="-4.7790688"><name>node/11033227325</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=Ard No 8
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227325"/></wpt><wpt lat="55.9898634" lon="-4.7591347"><name>node/11033227326</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=5
+seamark:name=No 24
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227326"/></wpt><wpt lat="56.0058332" lon="-4.7664041"><name>node/11033227327</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=2.5
+seamark:name=Cairndhu
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227327"/></wpt><wpt lat="56.0102196" lon="-4.7754425"><name>node/11033227328</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=4
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227328"/></wpt><wpt lat="56.0105855" lon="-4.7860486"><name>node/11033227329</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=3
+seamark:name=Rhu SE
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227329"/></wpt><wpt lat="56.0170866" lon="-4.7930512"><name>node/11033227330</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Q
+seamark:light:colour=green
+seamark:name=Rhu NE
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227330"/></wpt><wpt lat="56.01543" lon="-4.7964321"><name>node/11033227331</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=5
+seamark:name=Rhu NW
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033227331"/></wpt><wpt lat="56.0112895" lon="-4.7760741"><name>node/11033251665</name><desc>seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=5</desc><link href="http://osm.org/browse/node/11033251665"/></wpt><wpt lat="56.0111575" lon="-4.7767588"><name>node/11033251666</name><desc>seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5</desc><link href="http://osm.org/browse/node/11033251666"/></wpt><wpt lat="55.9686663" lon="-4.7882715"><name>node/11033309976</name><desc>seamark:buoy_safe_water:colour=red;white
+seamark:buoy_safe_water:colour_pattern=vertical
+seamark:buoy_safe_water:shape=pillar
+seamark:light:character=LFl
+seamark:light:colour=white
+seamark:light:period=10
+seamark:name=Whiteforeland
+seamark:topmark:colour=red
+seamark:topmark:shape=sphere
+seamark:type=buoy_safe_water</desc><link href="http://osm.org/browse/node/11033309976"/></wpt><wpt lat="55.9717299" lon="-4.7881508"><name>node/11033309977</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 27
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033309977"/></wpt><wpt lat="55.9861793" lon="-4.8737012"><name>node/11033309978</name><desc>seamark:buoy_safe_water:colour=red;white
+seamark:buoy_safe_water:colour_pattern=vertical
+seamark:buoy_safe_water:shape=pillar
+seamark:light:character=Oc
+seamark:light:period=6
+seamark:name=Loch Long
+seamark:topmark:colour=red
+seamark:topmark:shape=sphere
+seamark:type=buoy_safe_water</desc><link href="http://osm.org/browse/node/11033309978"/></wpt><wpt lat="55.986718" lon="-4.8574296"><name>node/11033309979</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5
+seamark:name=Kil No 3
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033309979"/></wpt><wpt lat="55.9779119" lon="-4.8380721"><name>node/11033309980</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5
+seamark:name=Kil No 1
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033309980"/></wpt><wpt lat="55.980325" lon="-4.8368812"><name>node/11033309981</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=Kil No 2
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033309981"/></wpt><wpt lat="55.9727806" lon="-4.8068015"><name>node/11033309982</name><desc>seamark:buoy_special_purpose:colour=yellow
+seamark:buoy_special_purpose:shape=spherical
+seamark:light:character=Fl
+seamark:light:colour=yellow
+seamark:light:period=3
+seamark:type=buoy_special_purpose</desc><link href="http://osm.org/browse/node/11033309982"/></wpt><wpt lat="55.9791418" lon="-4.8065253"><name>node/11033309983</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=Ard No 4
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033309983"/></wpt><wpt lat="55.9778497" lon="-4.7920286"><name>node/11033309984</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5
+seamark:name=Ard No 5
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033309984"/></wpt><wpt lat="55.9651761" lon="-4.7518256"><name>node/11033855939</name><desc>seamark:mooring:category=buoy
+seamark:name=A8
+seamark:type=mooring</desc><link href="http://osm.org/browse/node/11033855939"/></wpt><wpt lat="55.94771" lon="-4.7287345"><name>node/11033855940</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=2
+seamark:name=No 5
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855940"/></wpt><wpt lat="55.9491518" lon="-4.7314274"><name>node/11033855941</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 20
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855941"/></wpt><wpt lat="55.9474607" lon="-4.7322321"><name>node/11033855942</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5
+seamark:name=No 3
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855942"/></wpt><wpt lat="55.9464236" lon="-4.7358692"><name>node/11033855943</name><desc>seamark:buoy_special_purpose:colour=yellow
+seamark:buoy_special_purpose:shape=can
+seamark:light:character=Fl
+seamark:light:colour=yellow
+seamark:light:period=2
+seamark:type=buoy_special_purpose</desc><link href="http://osm.org/browse/node/11033855943"/></wpt><wpt lat="55.9486757" lon="-4.7380029"><name>node/11033855944</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=4
+seamark:name=No 16
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855944"/></wpt><wpt lat="55.9486372" lon="-4.742688"><name>node/11033855945</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 14
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855945"/></wpt><wpt lat="55.9501373" lon="-4.749018"><name>node/11033855946</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 12
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855946"/></wpt><wpt lat="55.9515691" lon="-4.7545179"><name>node/11033855947</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855947"/></wpt><wpt lat="55.9521493" lon="-4.7524774"><name>node/11033855948</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=4
+seamark:name=No 8
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855948"/></wpt><wpt lat="55.957393" lon="-4.7577989"><name>node/11033855949</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 4
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855949"/></wpt><wpt lat="55.9585762" lon="-4.7587967"><name>node/11033855950</name><desc>seamark:buoy_lateral:category=port
+seamark:buoy_lateral:colour=red
+seamark:buoy_lateral:shape=can
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=red
+seamark:light:period=2
+seamark:name=No 2
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855950"/></wpt><wpt lat="55.9601707" lon="-4.7660031"><name>node/11033855951</name><desc>seamark:buoy_lateral:category=starboard
+seamark:buoy_lateral:colour=green
+seamark:buoy_lateral:shape=conical
+seamark:buoy_lateral:system=iala-a
+seamark:light:character=Fl
+seamark:light:colour=green
+seamark:light:period=5
+seamark:name=No 1
+seamark:type=buoy_lateral</desc><link href="http://osm.org/browse/node/11033855951"/></wpt><wpt lat="55.9334438" lon="-4.914161"><name>node/11033873349</name><desc>seamark:buoy_safe_water:colour=red;white
+seamark:buoy_safe_water:colour_pattern=vertical
+seamark:buoy_safe_water:shape=pillar
+seamark:light:character=LFl
+seamark:light:colour=white
+seamark:light:period=10
+seamark:name=Cowal
+seamark:topmark:colour=red
+seamark:topmark:shape=sphere
+seamark:type=buoy_safe_water</desc><link href="http://osm.org/browse/node/11033873349"/></wpt><wpt lat="55.9440722" lon="-4.9027938"><name>node/11033873350</name><desc>seamark:buoy_cardinal:category=east
+seamark:buoy_cardinal:colour=black;yellow;black
+seamark:buoy_cardinal:colour_pattern=horizontal
+seamark:buoy_cardinal:shape=pillar
+seamark:light:character=Q
+seamark:light:colour=white
+seamark:light:group=3
+seamark:light:period=10
+seamark:topmark:colour=black
+seamark:topmark:shape=2 cones base together
+seamark:type=buoy_cardinal</desc><link href="http://osm.org/browse/node/11033873350"/></wpt><wpt lat="55.9425281" lon="-4.9190667"><name>node/11033873351</name><desc>seamark:buoy_cardinal:category=north
+seamark:buoy_cardinal:colour=black;yellow
+seamark:buoy_cardinal:colour_pattern=horizontal
+seamark:buoy_cardinal:shape=pillar
+seamark:light:character=Q
+seamark:light:colour=white
+seamark:name=No 31
+seamark:topmark:colour=black
+seamark:topmark:shape=2 cones up
+seamark:type=buoy_cardinal</desc><link href="http://osm.org/browse/node/11033873351"/></wpt><wpt lat="55.9598232" lon="-4.9039833"><name>node/11033873352</name><desc>seamark:buoy_special_purpose:colour=yellow
+seamark:buoy_special_purpose:shape=can
+seamark:light:character=Fl
+seamark:light:colour=yellow
+seamark:light:group=4
+seamark:light:period=12
+seamark:name=Kirn
+seamark:type=buoy_special_purpose</desc><link href="http://osm.org/browse/node/11033873352"/></wpt><wpt lat="55.9792115" lon="-4.8972014"><name>node/11033873353</name><desc>seamark:buoy_cardinal:category=south
+seamark:buoy_cardinal:colour=yellow;black
+seamark:buoy_cardinal:colour_pattern=horizontal
+seamark:buoy_cardinal:shape=pillar
+seamark:light:character=Q+LFl
+seamark:light:colour=white
+seamark:light:group=6
+seamark:light:period=15
+seamark:name=No 30
+seamark:topmark:colour=black
+seamark:topmark:shape=2 cones down
+seamark:type=buoy_cardinal</desc><link href="http://osm.org/browse/node/11033873353"/></wpt><trk><name>Helensburgh Lifeboat Station</name><desc>amenity=lifeboat_station
+building=yes
+emergency=lifeboat_station
+name=Helensburgh Lifeboat Station
+operator=Royal National Lifeboat Institution
+operator:short=RNLI
+operator:wikidata=Q2166873
+seamark:name=Helensburgh Lifeboat Station
+seamark:rescue_station:category=lifeboat
+seamark:type=rescue_station
+website=https://rnli.org/find-my-nearest/lifeboat-stations/helensburgh-lifeboat-station</desc><link href="http://osm.org/browse/way/237765647"/><trkseg><trkpt lat="56.013183" lon="-4.7734559"/><trkpt lat="56.0129809" lon="-4.7735113"/><trkpt lat="56.0129783" lon="-4.7734803"/><trkpt lat="56.0129692" lon="-4.7733744"/><trkpt lat="56.0131713" lon="-4.773319"/><trkpt lat="56.013183" lon="-4.7734559"/></trkseg></trk><trk><name>Silvers Marine</name><desc>industrial=shipyard
+landuse=industrial
+name=Silvers Marine
+seamark:harbour:category=shipyard
+seamark:type=harbour</desc><link href="http://osm.org/browse/way/237766341"/><trkseg><trkpt lat="56.0126084" lon="-4.8012933"/><trkpt lat="56.0123488" lon="-4.8011463"/><trkpt lat="56.0123913" lon="-4.8008899"/><trkpt lat="56.0122085" lon="-4.8007933"/><trkpt lat="56.0122307" lon="-4.8006614"/><trkpt lat="56.0121231" lon="-4.8003959"/><trkpt lat="56.0119508" lon="-4.8002954"/><trkpt lat="56.0118633" lon="-4.7995614"/><trkpt lat="56.0119068" lon="-4.7995368"/><trkpt lat="56.0121007" lon="-4.7991583"/><trkpt lat="56.0122771" lon="-4.7982377"/><trkpt lat="56.0123697" lon="-4.7981935"/><trkpt lat="56.0125856" lon="-4.7981721"/><trkpt lat="56.0127552" lon="-4.7982775"/><trkpt lat="56.0127936" lon="-4.7983169"/><trkpt lat="56.0129036" lon="-4.7982959"/><trkpt lat="56.0130156" lon="-4.7983169"/><trkpt lat="56.0130713" lon="-4.7984304"/><trkpt lat="56.0131415" lon="-4.7989607"/><trkpt lat="56.0131725" lon="-4.7990147"/><trkpt lat="56.0133156" lon="-4.7990665"/><trkpt lat="56.0134304" lon="-4.7992644"/><trkpt lat="56.0135367" lon="-4.7996793"/><trkpt lat="56.0137071" lon="-4.8000194"/><trkpt lat="56.0134336" lon="-4.8004376"/><trkpt lat="56.0133816" lon="-4.8005789"/><trkpt lat="56.0133581" lon="-4.8007225"/><trkpt lat="56.0134264" lon="-4.8017486"/><trkpt lat="56.0126084" lon="-4.8012933"/></trkseg></trk><trk><name>James Watt Dock Marina</name><desc>addr:city=Greenock
+addr:country=GB
+addr:postcode=PA15 2UT
+addr:street=East Hamilton Street
+capacity=140 berths
+contact:phone=+44 1475 729 838
+contact:vhf=80
+contact:website=https://www.jameswattdockmarina.co.uk
+leisure=marina
+name=James Watt Dock Marina
+seamark:harbour:category=marina
+seamark:type=harbour</desc><link href="http://osm.org/browse/way/444823224"/><trkseg><trkpt lat="55.9424709" lon="-4.7246414"/><trkpt lat="55.9428299" lon="-4.7243396"/><trkpt lat="55.9429636" lon="-4.7242337"/><trkpt lat="55.9433391" lon="-4.7239386"/><trkpt lat="55.9440275" lon="-4.7266289"/><trkpt lat="55.9440425" lon="-4.7266558"/><trkpt lat="55.9440657" lon="-4.7266723"/><trkpt lat="55.9439971" lon="-4.7279526"/><trkpt lat="55.9438589" lon="-4.7286621"/><trkpt lat="55.9436545" lon="-4.7292333"/><trkpt lat="55.9424709" lon="-4.7246414"/></trkseg></trk><trk><name>Ardencaple Castle</name><desc>building=yes
+name=Ardencaple Castle
+seamark:information=Visible 335° - 020°
+seamark:light:category=vertical
+seamark:light:character=F
+seamark:light:colour=green
+seamark:light:height=26
+seamark:light:multiple=2
+seamark:light:range=12
+seamark:light:reference=A 4422.1
+seamark:light:visibility=part_obscured
+seamark:type=light_minor
+source=US NGA Pub. 114. 2011-05-26.
+wikidata=Q1291082
+wikipedia=en:Ardencaple Castle</desc><link href="http://osm.org/browse/way/561610083"/><trkseg><trkpt lat="56.0091108" lon="-4.7570407"/><trkpt lat="56.0091102" lon="-4.7569565"/><trkpt lat="56.0091502" lon="-4.7569556"/><trkpt lat="56.0091508" lon="-4.7570398"/><trkpt lat="56.0091108" lon="-4.7570407"/></trkseg></trk><trk><name>way/672283866</name><desc>seamark:type=fairway</desc><link href="http://osm.org/browse/way/672283866"/><trkseg><trkpt lat="55.7199961" lon="-4.9873412"/><trkpt lat="55.826733" lon="-4.9507012"/><trkpt lat="55.9334464" lon="-4.9141601"/><trkpt lat="55.9684972" lon="-4.8444323"/><trkpt lat="55.9686927" lon="-4.7882477"/></trkseg></trk><trk><name>way/675670350</name><desc>description=Helensburgh Sailing Club mooring buoys
+seamark:anchorage:category=small_craft_mooring
+seamark:type=anchorage</desc><link href="http://osm.org/browse/way/675670350"/><trkseg><trkpt lat="56.0067809" lon="-4.7639148"/><trkpt lat="56.0068168" lon="-4.7665326"/><trkpt lat="56.0069968" lon="-4.7674768"/><trkpt lat="56.0086823" lon="-4.7709207"/><trkpt lat="56.009714" lon="-4.7714786"/><trkpt lat="56.0106676" lon="-4.7701804"/><trkpt lat="56.0110215" lon="-4.7678308"/><trkpt lat="56.0094561" lon="-4.7644941"/><trkpt lat="56.0080345" lon="-4.7646443"/><trkpt lat="56.0067809" lon="-4.7639148"/></trkseg></trk><trk><name>way/891473206</name><desc>access=private
+leisure=slipway
+operator=RNLI
+seamark:small_craft_facility:category=slipway
+seamark:type=small_craft_facility</desc><link href="http://osm.org/browse/way/891473206"/><trkseg><trkpt lat="56.0129783" lon="-4.7734803"/><trkpt lat="56.0125862" lon="-4.7736042"/></trkseg></trk></gpx>

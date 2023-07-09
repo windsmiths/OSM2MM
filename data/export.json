@@ -1,0 +1,2582 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+  "osm3s": {
+    "timestamp_osm_base": "2023-07-08T14:37:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 278862447,
+      "lat": 55.9423494,
+      "lon": -4.8787982,
+      "tags": {
+        "man_made": "lighthouse",
+        "name": "Cloch Lighthouse",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "white",
+        "seamark:light:height": "24",
+        "seamark:light:period": "3",
+        "seamark:light:range": "8",
+        "seamark:light:reference": "A 4404",
+        "seamark:light:sequence": "0.6+(2.4)",
+        "seamark:name": "Cloch Point",
+        "seamark:type": "light_minor",
+        "source": "Bing",
+        "wikidata": "Q5134766",
+        "wikipedia": "en:Cloch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263284,
+      "lat": 55.9374833,
+      "lon": -4.6875333,
+      "tags": {
+        "man_made": "lighthouse",
+        "name": "Perch Light",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "7",
+        "seamark:light:range": "9",
+        "seamark:light:reference": "A 4476",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26.",
+        "wikidata": "Q15124558"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263344,
+      "lat": 55.9434,
+      "lon": -4.7141833,
+      "tags": {
+        "seamark:light:character": "Q",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "7",
+        "seamark:light:range": "2",
+        "seamark:light:reference": "A 4472",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263364,
+      "lat": 55.9467333,
+      "lon": -4.7258833,
+      "tags": {
+        "seamark:light:character": "Oc",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "9",
+        "seamark:light:period": "10",
+        "seamark:light:range": "4",
+        "seamark:light:reference": "A 4470",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263397,
+      "lat": 55.9461,
+      "lon": -4.7450333,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "7",
+        "seamark:light:multiple": "2",
+        "seamark:light:reference": "A 4458",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263549,
+      "lat": 55.9542833,
+      "lon": -4.7665,
+      "tags": {
+        "seamark:light:category": "upper",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "33",
+        "seamark:light:reference": "A 4442.1",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263635,
+      "lat": 55.95745,
+      "lon": -4.7650833,
+      "tags": {
+        "seamark:light:category": "lower",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "18",
+        "seamark:light:reference": "A 4442",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263671,
+      "lat": 55.9575833,
+      "lon": -4.7650167,
+      "tags": {
+        "seamark:light:character": "Q",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "8",
+        "seamark:light:range": "8",
+        "seamark:light:reference": "A 4444",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263758,
+      "lat": 55.9601333,
+      "lon": -4.7764167,
+      "tags": {
+        "seamark:light:category": "upper",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "9",
+        "seamark:light:range": "12",
+        "seamark:light:reference": "A 4440",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263847,
+      "lat": 55.9603667,
+      "lon": -4.7763,
+      "tags": {
+        "seamark:light:category": "lower",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "7",
+        "seamark:light:range": "12",
+        "seamark:light:reference": "A 4438",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556263976,
+      "lat": 56.0728407,
+      "lon": -4.8287004,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "10",
+        "seamark:light:multiple": "2",
+        "seamark:light:range": "5",
+        "seamark:light:reference": "A 4428.8",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556264038,
+      "lat": 56.0704171,
+      "lon": -4.8280151,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:height": "10",
+        "seamark:light:multiple": "2",
+        "seamark:light:reference": "A 4428.6",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556264092,
+      "lat": 56.0707165,
+      "lon": -4.8281019,
+      "tags": {
+        "seamark:light:1:character": "Iso",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "10",
+        "seamark:light:1:period": "4",
+        "seamark:light:1:range": "14",
+        "seamark:light:1:sector_end": "356",
+        "seamark:light:1:sector_start": "351",
+        "seamark:light:2:character": "Iso",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:height": "10",
+        "seamark:light:2:period": "4",
+        "seamark:light:2:range": "14",
+        "seamark:light:2:sector_end": "6",
+        "seamark:light:2:sector_start": "356",
+        "seamark:light:3:character": "Iso",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:height": "10",
+        "seamark:light:3:period": "4",
+        "seamark:light:3:range": "14",
+        "seamark:light:3:sector_end": "11",
+        "seamark:light:3:sector_start": "6",
+        "seamark:light:reference": "A 4428.7",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556264297,
+      "lat": 56.0597365,
+      "lon": -4.8199662,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "7",
+        "seamark:light:multiple": "2",
+        "seamark:light:reference": "A 4427.9",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556264415,
+      "lat": 56.0552691,
+      "lon": -4.8206722,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "14",
+        "seamark:light:multiple": "2",
+        "seamark:light:range": "5",
+        "seamark:light:reference": "A 4427.6",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556264533,
+      "lat": 56.0517062,
+      "lon": -4.8198874,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:height": "3",
+        "seamark:light:period": "5",
+        "seamark:light:range": "2",
+        "seamark:light:reference": "A 4427.5",
+        "seamark:light:sequence": "0.5+(4.5)",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556265424,
+      "lat": 56.0524641,
+      "lon": -4.8207342,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:multiple": "2",
+        "seamark:light:reference": "A 4427.45",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556265454,
+      "lat": 56.0527258,
+      "lon": -4.8196856,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "11",
+        "seamark:light:period": "5",
+        "seamark:light:range": "5",
+        "seamark:light:reference": "A 4427.4",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556265498,
+      "lat": 56.0623333,
+      "lon": -4.8410667,
+      "tags": {
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "4",
+        "seamark:light:1:height": "8",
+        "seamark:light:1:period": "8",
+        "seamark:light:1:range": "14",
+        "seamark:light:1:sector_end": "330",
+        "seamark:light:1:sector_start": "328.5",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:group": "4",
+        "seamark:light:2:height": "8",
+        "seamark:light:2:period": "8",
+        "seamark:light:2:range": "14",
+        "seamark:light:2:sector_end": "332",
+        "seamark:light:2:sector_start": "330",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:group": "4",
+        "seamark:light:3:height": "8",
+        "seamark:light:3:period": "8",
+        "seamark:light:3:range": "14",
+        "seamark:light:3:sector_end": "333",
+        "seamark:light:3:sector_start": "332",
+        "seamark:light:reference": "A 4426.5",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556265604,
+      "lat": 56.0140167,
+      "lon": -4.7891,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "white",
+        "seamark:light:height": "6",
+        "seamark:light:period": "3",
+        "seamark:light:range": "6",
+        "seamark:light:reference": "A 4426",
+        "seamark:light:sequence": "0.4+(2.6)",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556265639,
+      "lat": 56.0031667,
+      "lon": -4.7750167,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:group": "2",
+        "seamark:light:height": "8",
+        "seamark:light:period": "10",
+        "seamark:light:range": "6",
+        "seamark:light:reference": "A 4425",
+        "seamark:light:sequence": "0.8+(1.4)+0.8+(7)",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556265726,
+      "lat": 56.0157667,
+      "lon": -4.7865833,
+      "tags": {
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "3",
+        "seamark:light:1:height": "9",
+        "seamark:light:1:period": "6",
+        "seamark:light:1:range": "13",
+        "seamark:light:1:sector_end": "0",
+        "seamark:light:1:sector_start": "270",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:group": "3",
+        "seamark:light:2:height": "9",
+        "seamark:light:2:period": "6",
+        "seamark:light:2:range": "16",
+        "seamark:light:2:sector_end": "114",
+        "seamark:light:2:sector_start": "0",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:group": "3",
+        "seamark:light:3:height": "9",
+        "seamark:light:3:period": "6",
+        "seamark:light:3:range": "13",
+        "seamark:light:3:sector_end": "188",
+        "seamark:light:3:sector_start": "114",
+        "seamark:light:4:character": "Al",
+        "seamark:light:4:colour": "green;white",
+        "seamark:light:4:group": "3",
+        "seamark:light:4:height": "9",
+        "seamark:light:4:period": "6",
+        "seamark:light:4:range": "13",
+        "seamark:light:4:sector_end": "317",
+        "seamark:light:4:sector_start": "315",
+        "seamark:light:5:character": "F",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:group": "3",
+        "seamark:light:5:height": "9",
+        "seamark:light:5:period": "6",
+        "seamark:light:5:range": "16",
+        "seamark:light:5:sector_end": "319",
+        "seamark:light:5:sector_start": "317",
+        "seamark:light:6:character": "Al",
+        "seamark:light:6:colour": "red;white",
+        "seamark:light:6:group": "3",
+        "seamark:light:6:height": "9",
+        "seamark:light:6:period": "6",
+        "seamark:light:6:range": "13",
+        "seamark:light:6:sector_end": "321",
+        "seamark:light:6:sector_start": "319",
+        "seamark:light:7:character": "F",
+        "seamark:light:7:colour": "red",
+        "seamark:light:7:group": "3",
+        "seamark:light:7:height": "9",
+        "seamark:light:7:period": "6",
+        "seamark:light:7:range": "13",
+        "seamark:light:7:sector_end": "325",
+        "seamark:light:7:sector_start": "321",
+        "seamark:light:reference": "A 4422.5",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556269201,
+      "lat": 56.0065,
+      "lon": -4.7916167,
+      "tags": {
+        "seamark:information": "Visible 150° - 330°",
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "red",
+        "seamark:light:multiple": "2",
+        "seamark:light:range": "5",
+        "seamark:light:reference": "A 4425.5",
+        "seamark:light:visibility": "part_obscured",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556269240,
+      "lat": 56.0111758,
+      "lon": -4.7952886,
+      "tags": {
+        "seamark:beacon_lateral:category": "port",
+        "seamark:beacon_lateral:colour": "red",
+        "seamark:beacon_lateral:system": "iala-a",
+        "seamark:light:1:character": "Al",
+        "seamark:light:1:colour": "green;white",
+        "seamark:light:1:height": "5",
+        "seamark:light:1:range": "13",
+        "seamark:light:1:sector_end": "294",
+        "seamark:light:1:sector_start": "291",
+        "seamark:light:2:character": "F",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:height": "5",
+        "seamark:light:2:range": "16",
+        "seamark:light:2:sector_end": "296",
+        "seamark:light:2:sector_start": "294",
+        "seamark:light:3:character": "Al",
+        "seamark:light:3:colour": "red;white",
+        "seamark:light:3:height": "5",
+        "seamark:light:3:sector_end": "299",
+        "seamark:light:3:sector_start": "296",
+        "seamark:light:4:colour": "red",
+        "seamark:light:4:height": "5",
+        "seamark:light:4:sector_end": "301",
+        "seamark:light:4:sector_start": "299",
+        "seamark:light:reference": "A 4423",
+        "seamark:name": "No.2N",
+        "seamark:topmark:colour": "red",
+        "seamark:topmark:shape": "cylinder",
+        "seamark:type": "beacon_lateral",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556269282,
+      "lat": 56.0012167,
+      "lon": -4.7785667,
+      "tags": {
+        "seamark:light:1:character": "F",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "9",
+        "seamark:light:1:range": "13",
+        "seamark:light:1:sector_end": "145",
+        "seamark:light:1:sector_start": "144",
+        "seamark:light:2:character": "Al",
+        "seamark:light:2:colour": "green;white",
+        "seamark:light:2:height": "9",
+        "seamark:light:2:range": "13",
+        "seamark:light:2:sector_end": "148",
+        "seamark:light:2:sector_start": "145",
+        "seamark:light:3:character": "F",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:height": "9",
+        "seamark:light:3:range": "16",
+        "seamark:light:3:sector_end": "150",
+        "seamark:light:3:sector_start": "148",
+        "seamark:light:4:character": "Al",
+        "seamark:light:4:colour": "red;white",
+        "seamark:light:4:height": "9",
+        "seamark:light:4:range": "13",
+        "seamark:light:4:sector_end": "153",
+        "seamark:light:4:sector_start": "150",
+        "seamark:light:5:character": "F",
+        "seamark:light:5:colour": "red",
+        "seamark:light:5:height": "9",
+        "seamark:light:5:range": "13",
+        "seamark:light:5:sector_end": "154",
+        "seamark:light:5:sector_start": "153",
+        "seamark:light:reference": "A 4423.5",
+        "seamark:name": "No.3N",
+        "seamark:type": "light_major",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556269402,
+      "lat": 56.0009167,
+      "lon": -4.75595,
+      "tags": {
+        "seamark:light:1:category": "lower",
+        "seamark:light:1:character": "Al",
+        "seamark:light:1:colour": "green;white",
+        "seamark:light:1:height": "5",
+        "seamark:light:1:range": "13",
+        "seamark:light:1:sector_end": "355",
+        "seamark:light:1:sector_start": "353",
+        "seamark:light:2:category": "lower",
+        "seamark:light:2:character": "F",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:height": "5",
+        "seamark:light:2:range": "16",
+        "seamark:light:2:sector_end": "357",
+        "seamark:light:2:sector_start": "355",
+        "seamark:light:3:category": "lower",
+        "seamark:light:3:character": "Al",
+        "seamark:light:3:colour": "red;white",
+        "seamark:light:3:height": "5",
+        "seamark:light:3:sector_end": "0",
+        "seamark:light:3:sector_start": "357",
+        "seamark:light:4:category": "lower",
+        "seamark:light:4:character": "F",
+        "seamark:light:4:colour": "red",
+        "seamark:light:4:height": "5",
+        "seamark:light:4:sector_end": "2",
+        "seamark:light:4:sector_start": "0",
+        "seamark:light:5:category": "lower",
+        "seamark:light:5:character": "Al",
+        "seamark:light:5:colour": "green;white",
+        "seamark:light:5:height": "5",
+        "seamark:light:5:range": "13",
+        "seamark:light:5:sector_end": "114",
+        "seamark:light:5:sector_start": "111",
+        "seamark:light:6:category": "lower",
+        "seamark:light:6:character": "F",
+        "seamark:light:6:colour": "white",
+        "seamark:light:6:height": "5",
+        "seamark:light:6:range": "16",
+        "seamark:light:6:sector_end": "116",
+        "seamark:light:6:sector_start": "114",
+        "seamark:light:7:category": "lower",
+        "seamark:light:7:character": "Al",
+        "seamark:light:7:colour": "red;white",
+        "seamark:light:7:height": "5",
+        "seamark:light:7:sector_end": "119",
+        "seamark:light:7:sector_start": "116",
+        "seamark:light:8:category": "lower",
+        "seamark:light:8:character": "F",
+        "seamark:light:8:colour": "red",
+        "seamark:light:8:height": "5",
+        "seamark:light:8:sector_end": "121",
+        "seamark:light:8:sector_start": "119",
+        "seamark:light:reference": "A 4422",
+        "seamark:name": "No.7N",
+        "seamark:type": "light_major",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556269463,
+      "lat": 55.9852167,
+      "lon": -4.7313833,
+      "tags": {
+        "seamark:beacon_special_purpose:colour": "yellow",
+        "seamark:light:character": "VQ",
+        "seamark:light:colour": "yellow",
+        "seamark:light:group": "4",
+        "seamark:light:height": "9",
+        "seamark:light:period": "5",
+        "seamark:light:reference": "A 4421.2",
+        "seamark:name": "No.1",
+        "seamark:topmark:colour": "yellow",
+        "seamark:topmark:shape": "x-shape",
+        "seamark:type": "beacon_special_purpose",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556269508,
+      "lat": 55.9752337,
+      "lon": -4.7902971,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "white",
+        "seamark:light:group": "2",
+        "seamark:light:height": "5",
+        "seamark:light:period": "10",
+        "seamark:light:range": "10",
+        "seamark:light:reference": "A 4420",
+        "seamark:topmark:colour": "black",
+        "seamark:topmark:shape": "2 spheres",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556269587,
+      "lat": 55.9847833,
+      "lon": -4.7367333,
+      "tags": {
+        "seamark:light:1:character": "F",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "4",
+        "seamark:light:1:range": "13",
+        "seamark:light:1:sector_end": "77.5",
+        "seamark:light:1:sector_start": "75",
+        "seamark:light:2:character": "Al",
+        "seamark:light:2:colour": "green;white",
+        "seamark:light:2:height": "4",
+        "seamark:light:2:range": "13",
+        "seamark:light:2:sector_end": "79.5",
+        "seamark:light:2:sector_start": "77.5",
+        "seamark:light:3:character": "F",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:height": "4",
+        "seamark:light:3:range": "16",
+        "seamark:light:3:sector_end": "80.5",
+        "seamark:light:3:sector_start": "79.5",
+        "seamark:light:4:character": "Al",
+        "seamark:light:4:colour": "red;white",
+        "seamark:light:4:height": "4",
+        "seamark:light:4:sector_end": "82.5",
+        "seamark:light:4:sector_start": "80.5",
+        "seamark:light:5:character": "F",
+        "seamark:light:5:colour": "red",
+        "seamark:light:5:height": "4",
+        "seamark:light:5:sector_end": "85",
+        "seamark:light:5:sector_start": "82.5",
+        "seamark:light:6:character": "F",
+        "seamark:light:6:colour": "green",
+        "seamark:light:6:height": "4",
+        "seamark:light:6:range": "13",
+        "seamark:light:6:sector_end": "134",
+        "seamark:light:6:sector_start": "132",
+        "seamark:light:7:character": "Al",
+        "seamark:light:7:colour": "green;white",
+        "seamark:light:7:height": "4",
+        "seamark:light:7:range": "13",
+        "seamark:light:7:sector_end": "137",
+        "seamark:light:7:sector_start": "134",
+        "seamark:light:8:character": "F",
+        "seamark:light:8:colour": "white",
+        "seamark:light:8:height": "4",
+        "seamark:light:8:range": "16",
+        "seamark:light:8:sector_end": "139",
+        "seamark:light:8:sector_start": "137",
+        "seamark:light:9:character": "Al",
+        "seamark:light:9:colour": "red;white",
+        "seamark:light:9:height": "4",
+        "seamark:light:9:sector_end": "142",
+        "seamark:light:9:sector_start": "139",
+        "seamark:light:reference": "A 4421",
+        "seamark:name": "No.8N",
+        "seamark:type": "light_major",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556270819,
+      "lat": 56.0669371,
+      "lon": -4.8748584,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "6",
+        "seamark:light:period": "12",
+        "seamark:light:range": "2",
+        "seamark:light:reference": "A 4410.32",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556270886,
+      "lat": 56.065382,
+      "lon": -4.8761799,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "6",
+        "seamark:light:period": "12",
+        "seamark:light:reference": "A 4410.3",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556270927,
+      "lat": 56.0625667,
+      "lon": -4.8940167,
+      "tags": {
+        "seamark:information": "Visible 206° - 026°",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "white",
+        "seamark:light:height": "8",
+        "seamark:light:period": "6",
+        "seamark:light:range": "11",
+        "seamark:light:reference": "A 4411",
+        "seamark:light:sequence": "0.7+(5.3)",
+        "seamark:light:visibility": "part_obscured",
+        "seamark:name": "Port Dornaige",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556271012,
+      "lat": 56.0357167,
+      "lon": -4.9062,
+      "tags": {
+        "seamark:landmark:category": "tower",
+        "seamark:landmark:colour": "white",
+        "seamark:landmark:construction": "framework",
+        "seamark:light:1:character": "F",
+        "seamark:light:1:colour": "red",
+        "seamark:light:1:height": "9",
+        "seamark:light:1:period": "4",
+        "seamark:light:1:range": "10",
+        "seamark:light:1:sector_end": "203",
+        "seamark:light:1:sector_start": "201.5",
+        "seamark:light:2:character": "Al",
+        "seamark:light:2:colour": "red;white",
+        "seamark:light:2:height": "9",
+        "seamark:light:2:period": "4",
+        "seamark:light:2:range": "10",
+        "seamark:light:2:sector_end": "203.5",
+        "seamark:light:2:sector_start": "203",
+        "seamark:light:3:character": "F",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:height": "9",
+        "seamark:light:3:period": "4",
+        "seamark:light:3:range": "10",
+        "seamark:light:3:sector_end": "204.5",
+        "seamark:light:3:sector_start": "203.5",
+        "seamark:light:4:character": "Al",
+        "seamark:light:4:colour": "green;white",
+        "seamark:light:4:height": "9",
+        "seamark:light:4:period": "4",
+        "seamark:light:4:range": "10",
+        "seamark:light:4:sector_end": "205",
+        "seamark:light:4:sector_start": "204.5",
+        "seamark:light:5:character": "F",
+        "seamark:light:5:colour": "green",
+        "seamark:light:5:height": "9",
+        "seamark:light:5:period": "4",
+        "seamark:light:5:range": "10",
+        "seamark:light:5:sector_end": "206.5",
+        "seamark:light:5:sector_start": "205",
+        "seamark:light:6:character": "Fl",
+        "seamark:light:6:colour": "white",
+        "seamark:light:6:height": "12",
+        "seamark:light:6:period": "4",
+        "seamark:light:6:range": "10",
+        "seamark:light:6:sequence": "0.7+(3.3)",
+        "seamark:light:reference": "A 4409",
+        "seamark:name": "Ravenrock",
+        "seamark:radio_station:category": "ais",
+        "seamark:type": "landmark",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556271156,
+      "lat": 55.9586,
+      "lon": -4.8088333,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:height": "4",
+        "seamark:light:period": "5",
+        "seamark:light:range": "3",
+        "seamark:light:reference": "A 4416",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556271276,
+      "lat": 55.9579833,
+      "lon": -4.8103,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "4",
+        "seamark:light:period": "5",
+        "seamark:light:range": "3",
+        "seamark:light:reference": "A 4417",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556271613,
+      "lat": 55.9710135,
+      "lon": -4.9080174,
+      "tags": {
+        "seamark:information": "134",
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "red",
+        "seamark:light:height": "6",
+        "seamark:light:multiple": "2",
+        "seamark:light:range": "6",
+        "seamark:light:reference": "A 4406",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556271733,
+      "lat": 55.9520833,
+      "lon": -4.8526667,
+      "tags": {
+        "seamark:information": "103",
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "5",
+        "seamark:light:multiple": "2",
+        "seamark:light:range": "6",
+        "seamark:light:reference": "A 4405",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556271859,
+      "lat": 55.9472091,
+      "lon": -4.9210563,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "red",
+        "seamark:light:height": "5",
+        "seamark:light:multiple": "2",
+        "seamark:light:range": "6",
+        "seamark:light:reference": "A 4400.2",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1556271916,
+      "lat": 55.940799,
+      "lon": -4.9180688,
+      "tags": {
+        "ele": "13",
+        "man_made": "lighthouse",
+        "name": "Gantock Rocks Light",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:height": "12",
+        "seamark:light:period": "6",
+        "seamark:light:range": "6",
+        "seamark:light:reference": "A 4398",
+        "seamark:light:sequence": "0.8+(5.2)",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26.",
+        "wikidata": "Q28465883"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683957974,
+      "lat": 55.9757791,
+      "lon": -4.7418802,
+      "tags": {
+        "historic": "wreck",
+        "loc_name": "The Sugar Boat",
+        "name": "MV Captayannis",
+        "seamark:type": "wreck",
+        "source": "survey;bing",
+        "wikidata": "Q11679478",
+        "wikipedia": "en:MV Captayannis",
+        "wreck:visible_at_low_tide": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958052,
+      "lat": 55.9335556,
+      "lon": -4.5907778,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "2",
+        "seamark:name": "37",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958054,
+      "lat": 55.93875,
+      "lon": -4.6750278,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "4",
+        "seamark:name": "42",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958059,
+      "lat": 55.939,
+      "lon": -4.6819167,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "40",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958066,
+      "lat": 55.9391753,
+      "lon": -4.6248526,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958087,
+      "lat": 55.9400556,
+      "lon": -4.6915,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "4",
+        "seamark:name": "36",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958094,
+      "lat": 55.9403433,
+      "lon": -4.6359091,
+      "tags": {
+        "name": "Cardross",
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958099,
+      "lat": 55.9410833,
+      "lon": -4.6971667,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "34",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958103,
+      "lat": 55.9439798,
+      "lon": -4.7078692,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 32",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958126,
+      "lat": 55.9456645,
+      "lon": -4.7134803,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 30",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958131,
+      "lat": 55.948226,
+      "lon": -4.7219803,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 28",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958137,
+      "lat": 55.9493409,
+      "lon": -4.7267462,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "4",
+        "seamark:name": "Garvel No 24",
+        "seamark:type": "buoy_lateral",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683958140,
+      "lat": 55.9764444,
+      "lon": -4.7441944,
+      "tags": {
+        "seamark:buoy_cardinal:category": "west",
+        "seamark:buoy_cardinal:colour": "yellow;black;yellow",
+        "seamark:buoy_cardinal:colour_pattern": "horizontal",
+        "seamark:buoy_cardinal:shape": "pillar",
+        "seamark:light:character": "Q",
+        "seamark:light:colour": "white",
+        "seamark:light:group": "9",
+        "seamark:light:period": "15",
+        "seamark:topmark:colour": "black",
+        "seamark:topmark:shape": "2 cones point together",
+        "seamark:type": "buoy_cardinal",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2466033330,
+      "lat": 55.9373984,
+      "lon": -4.6904646,
+      "tags": {
+        "man_made": "lighthouse",
+        "name": "Port Glasgow Leading Light",
+        "seamark:light:1:character": "F",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "12",
+        "seamark:light:1:range": "12",
+        "seamark:light:1:sector_end": "290",
+        "seamark:light:1:sector_start": "210",
+        "seamark:light:reference": "A 4478",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26.",
+        "wikidata": "Q17826485"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6034189423,
+      "lat": 56.0133213,
+      "lon": -4.7729341,
+      "tags": {
+        "description": "shop selling sailing supplies and equipment",
+        "name": "Crhu Marine",
+        "seamark:small_craft_facility:category": "chandler",
+        "seamark:type": "small_craft_facility",
+        "shop": "ship_chandler",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6295491930,
+      "lat": 55.9684972,
+      "lon": -4.8444323,
+      "tags": {
+        "ele": "0",
+        "name": "3",
+        "seamark:buoy_safe_water:colour": "red;white",
+        "seamark:buoy_safe_water:colour_pattern": "vertical",
+        "seamark:buoy_safe_water:shape": "pillar",
+        "seamark:light:character": "Iso",
+        "seamark:light:colour": "white",
+        "seamark:light:period": "5",
+        "seamark:name": "Ashton",
+        "seamark:topmark:colour": "red",
+        "seamark:topmark:shape": "sphere",
+        "seamark:type": "buoy_safe_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8286010292,
+      "lat": 56.0127061,
+      "lon": -4.7726456,
+      "tags": {
+        "crane:maxload": "unknown",
+        "crane:mobile": "street",
+        "crane:type": "travel_lift",
+        "man_made": "crane",
+        "seamark:small_craft_facility:category": "boat_hoist",
+        "seamark:type": "small_craft_facility"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9317806944,
+      "lat": 55.9592537,
+      "lon": -4.8161232,
+      "tags": {
+        "depth": "9.9",
+        "seamark:obstruction:depth": "9.9",
+        "seamark:type": "obstruction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9364298158,
+      "lat": 56.0660872,
+      "lon": -4.875713,
+      "tags": {
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "red",
+        "seamark:light:multiple": "3",
+        "seamark:light:range": "8",
+        "seamark:type": "light_major"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9372473036,
+      "lat": 55.9630278,
+      "lon": -4.8153889,
+      "tags": {
+        "seamark:buoy_special_purpose:colour": "yellow",
+        "seamark:buoy_special_purpose:shape": "pillar",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "yellow",
+        "seamark:light:group": "5",
+        "seamark:light:period": "20",
+        "seamark:name": "M1",
+        "seamark:type": "buoy_special_purpose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9496319378,
+      "lat": 55.9959722,
+      "lon": -4.7580278,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "2",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9496319379,
+      "lat": 56.0026948,
+      "lon": -4.7693043,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "4",
+        "seamark:name": "4",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9496319380,
+      "lat": 56.007,
+      "lon": -4.7846667,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "6",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9665082589,
+      "lat": 55.9841213,
+      "lon": -4.8195953,
+      "tags": {
+        "leisure": "marina",
+        "name": "Kilcreggan Pier",
+        "seamark:harbour:category": "marina",
+        "seamark:type": "harbour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9669874892,
+      "lat": 55.9827172,
+      "lon": -4.9398604,
+      "tags": {
+        "leisure": "marina",
+        "name": "Ardnadam Pier",
+        "seamark:harbour:category": "marina",
+        "seamark:type": "harbour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10057171882,
+      "lat": 55.9466944,
+      "lon": -4.9203611,
+      "tags": {
+        "seamark:buoy_special_purpose:colour": "yellow",
+        "seamark:buoy_special_purpose:shape": "pillar",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "yellow",
+        "seamark:light:group": "5",
+        "seamark:light:period": "20",
+        "seamark:type": "buoy_special_purpose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10057181955,
+      "lat": 55.9433333,
+      "lon": -4.8933333,
+      "tags": {
+        "seamark:calling-in_point:orientation": "48",
+        "seamark:calling-in_point:traffic_flow": "two-way",
+        "seamark:type": "calling-in_point"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11028275631,
+      "lat": 56.0110173,
+      "lon": -4.7921258,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Q",
+        "seamark:light:colour": "red",
+        "seamark:name": "Rhu SW",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227322,
+      "lat": 55.9907425,
+      "lon": -4.7606474,
+      "tags": {
+        "seamark:buoy_special_purpose:colour": "yellow",
+        "seamark:buoy_special_purpose:shape": "can",
+        "seamark:type": "buoy_special_purpose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227323,
+      "lat": 55.997493,
+      "lon": -4.7522092,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5",
+        "seamark:name": "Row",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227324,
+      "lat": 55.9836293,
+      "lon": -4.761605,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "Ard No 10",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227325,
+      "lat": 55.9826734,
+      "lon": -4.7790688,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "Ard No 8",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227326,
+      "lat": 55.9898634,
+      "lon": -4.7591347,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "5",
+        "seamark:name": "No 24",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227327,
+      "lat": 56.0058332,
+      "lon": -4.7664041,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "2.5",
+        "seamark:name": "Cairndhu",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227328,
+      "lat": 56.0102196,
+      "lon": -4.7754425,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "4",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227329,
+      "lat": 56.0105855,
+      "lon": -4.7860486,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "3",
+        "seamark:name": "Rhu SE",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227330,
+      "lat": 56.0170866,
+      "lon": -4.7930512,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Q",
+        "seamark:light:colour": "green",
+        "seamark:name": "Rhu NE",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033227331,
+      "lat": 56.01543,
+      "lon": -4.7964321,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "5",
+        "seamark:name": "Rhu NW",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033251665,
+      "lat": 56.0112895,
+      "lon": -4.7760741,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033251666,
+      "lat": 56.0111575,
+      "lon": -4.7767588,
+      "tags": {
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309976,
+      "lat": 55.9686663,
+      "lon": -4.7882715,
+      "tags": {
+        "seamark:buoy_safe_water:colour": "red;white",
+        "seamark:buoy_safe_water:colour_pattern": "vertical",
+        "seamark:buoy_safe_water:shape": "pillar",
+        "seamark:light:character": "LFl",
+        "seamark:light:colour": "white",
+        "seamark:light:period": "10",
+        "seamark:name": "Whiteforeland",
+        "seamark:topmark:colour": "red",
+        "seamark:topmark:shape": "sphere",
+        "seamark:type": "buoy_safe_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309977,
+      "lat": 55.9717299,
+      "lon": -4.7881508,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 27",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309978,
+      "lat": 55.9861793,
+      "lon": -4.8737012,
+      "tags": {
+        "seamark:buoy_safe_water:colour": "red;white",
+        "seamark:buoy_safe_water:colour_pattern": "vertical",
+        "seamark:buoy_safe_water:shape": "pillar",
+        "seamark:light:character": "Oc",
+        "seamark:light:period": "6",
+        "seamark:name": "Loch Long",
+        "seamark:topmark:colour": "red",
+        "seamark:topmark:shape": "sphere",
+        "seamark:type": "buoy_safe_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309979,
+      "lat": 55.986718,
+      "lon": -4.8574296,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5",
+        "seamark:name": "Kil No 3",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309980,
+      "lat": 55.9779119,
+      "lon": -4.8380721,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5",
+        "seamark:name": "Kil No 1",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309981,
+      "lat": 55.980325,
+      "lon": -4.8368812,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "Kil No 2",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309982,
+      "lat": 55.9727806,
+      "lon": -4.8068015,
+      "tags": {
+        "seamark:buoy_special_purpose:colour": "yellow",
+        "seamark:buoy_special_purpose:shape": "spherical",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "yellow",
+        "seamark:light:period": "3",
+        "seamark:type": "buoy_special_purpose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309983,
+      "lat": 55.9791418,
+      "lon": -4.8065253,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "Ard No 4",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309984,
+      "lat": 55.9778497,
+      "lon": -4.7920286,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5",
+        "seamark:name": "Ard No 5",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855939,
+      "lat": 55.9651761,
+      "lon": -4.7518256,
+      "tags": {
+        "seamark:mooring:category": "buoy",
+        "seamark:name": "A8",
+        "seamark:type": "mooring"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855940,
+      "lat": 55.94771,
+      "lon": -4.7287345,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "2",
+        "seamark:name": "No 5",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855941,
+      "lat": 55.9491518,
+      "lon": -4.7314274,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 20",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855942,
+      "lat": 55.9474607,
+      "lon": -4.7322321,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5",
+        "seamark:name": "No 3",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855943,
+      "lat": 55.9464236,
+      "lon": -4.7358692,
+      "tags": {
+        "seamark:buoy_special_purpose:colour": "yellow",
+        "seamark:buoy_special_purpose:shape": "can",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "yellow",
+        "seamark:light:period": "2",
+        "seamark:type": "buoy_special_purpose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855944,
+      "lat": 55.9486757,
+      "lon": -4.7380029,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "4",
+        "seamark:name": "No 16",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855945,
+      "lat": 55.9486372,
+      "lon": -4.742688,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 14",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855946,
+      "lat": 55.9501373,
+      "lon": -4.749018,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 12",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855947,
+      "lat": 55.9515691,
+      "lon": -4.7545179,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855948,
+      "lat": 55.9521493,
+      "lon": -4.7524774,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "4",
+        "seamark:name": "No 8",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855949,
+      "lat": 55.957393,
+      "lon": -4.7577989,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 4",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855950,
+      "lat": 55.9585762,
+      "lon": -4.7587967,
+      "tags": {
+        "seamark:buoy_lateral:category": "port",
+        "seamark:buoy_lateral:colour": "red",
+        "seamark:buoy_lateral:shape": "can",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:period": "2",
+        "seamark:name": "No 2",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033855951,
+      "lat": 55.9601707,
+      "lon": -4.7660031,
+      "tags": {
+        "seamark:buoy_lateral:category": "starboard",
+        "seamark:buoy_lateral:colour": "green",
+        "seamark:buoy_lateral:shape": "conical",
+        "seamark:buoy_lateral:system": "iala-a",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "green",
+        "seamark:light:period": "5",
+        "seamark:name": "No 1",
+        "seamark:type": "buoy_lateral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033873349,
+      "lat": 55.9334438,
+      "lon": -4.914161,
+      "tags": {
+        "seamark:buoy_safe_water:colour": "red;white",
+        "seamark:buoy_safe_water:colour_pattern": "vertical",
+        "seamark:buoy_safe_water:shape": "pillar",
+        "seamark:light:character": "LFl",
+        "seamark:light:colour": "white",
+        "seamark:light:period": "10",
+        "seamark:name": "Cowal",
+        "seamark:topmark:colour": "red",
+        "seamark:topmark:shape": "sphere",
+        "seamark:type": "buoy_safe_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033873350,
+      "lat": 55.9440722,
+      "lon": -4.9027938,
+      "tags": {
+        "seamark:buoy_cardinal:category": "east",
+        "seamark:buoy_cardinal:colour": "black;yellow;black",
+        "seamark:buoy_cardinal:colour_pattern": "horizontal",
+        "seamark:buoy_cardinal:shape": "pillar",
+        "seamark:light:character": "Q",
+        "seamark:light:colour": "white",
+        "seamark:light:group": "3",
+        "seamark:light:period": "10",
+        "seamark:topmark:colour": "black",
+        "seamark:topmark:shape": "2 cones base together",
+        "seamark:type": "buoy_cardinal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033873351,
+      "lat": 55.9425281,
+      "lon": -4.9190667,
+      "tags": {
+        "seamark:buoy_cardinal:category": "north",
+        "seamark:buoy_cardinal:colour": "black;yellow",
+        "seamark:buoy_cardinal:colour_pattern": "horizontal",
+        "seamark:buoy_cardinal:shape": "pillar",
+        "seamark:light:character": "Q",
+        "seamark:light:colour": "white",
+        "seamark:name": "No 31",
+        "seamark:topmark:colour": "black",
+        "seamark:topmark:shape": "2 cones up",
+        "seamark:type": "buoy_cardinal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033873352,
+      "lat": 55.9598232,
+      "lon": -4.9039833,
+      "tags": {
+        "seamark:buoy_special_purpose:colour": "yellow",
+        "seamark:buoy_special_purpose:shape": "can",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "yellow",
+        "seamark:light:group": "4",
+        "seamark:light:period": "12",
+        "seamark:name": "Kirn",
+        "seamark:type": "buoy_special_purpose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033873353,
+      "lat": 55.9792115,
+      "lon": -4.8972014,
+      "tags": {
+        "seamark:buoy_cardinal:category": "south",
+        "seamark:buoy_cardinal:colour": "yellow;black",
+        "seamark:buoy_cardinal:colour_pattern": "horizontal",
+        "seamark:buoy_cardinal:shape": "pillar",
+        "seamark:light:character": "Q+LFl",
+        "seamark:light:colour": "white",
+        "seamark:light:group": "6",
+        "seamark:light:period": "15",
+        "seamark:name": "No 30",
+        "seamark:topmark:colour": "black",
+        "seamark:topmark:shape": "2 cones down",
+        "seamark:type": "buoy_cardinal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 237765647,
+      "nodes": [
+        2456443329,
+        2456443327,
+        2456443310,
+        8286010297,
+        2456443311,
+        2456443329
+      ],
+      "tags": {
+        "amenity": "lifeboat_station",
+        "building": "yes",
+        "emergency": "lifeboat_station",
+        "name": "Helensburgh Lifeboat Station",
+        "operator": "Royal National Lifeboat Institution",
+        "operator:short": "RNLI",
+        "operator:wikidata": "Q2166873",
+        "seamark:name": "Helensburgh Lifeboat Station",
+        "seamark:rescue_station:category": "lifeboat",
+        "seamark:type": "rescue_station",
+        "website": "https://rnli.org/find-my-nearest/lifeboat-stations/helensburgh-lifeboat-station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 237766341,
+      "nodes": [
+        1007232907,
+        9678138424,
+        9678138425,
+        9678138426,
+        9678138423,
+        9678138422,
+        9678138421,
+        2456447561,
+        9678138420,
+        2456447568,
+        2456447577,
+        1084137008,
+        1084136537,
+        13607653,
+        13607660,
+        2456447606,
+        13607663,
+        2456447611,
+        13607669,
+        2456447612,
+        2456447613,
+        13607676,
+        2456447619,
+        9678138417,
+        9678138418,
+        9678138419,
+        2456447625,
+        2456447624,
+        1007232907
+      ],
+      "tags": {
+        "industrial": "shipyard",
+        "landuse": "industrial",
+        "name": "Silvers Marine",
+        "seamark:harbour:category": "shipyard",
+        "seamark:type": "harbour"
+      }
+    },
+    {
+      "type": "way",
+      "id": 444823224,
+      "nodes": [
+        1339436838,
+        1339436819,
+        4422821012,
+        4422821027,
+        4422821034,
+        4422821033,
+        1339436842,
+        1339436820,
+        1339436839,
+        1339436829,
+        1339436838
+      ],
+      "tags": {
+        "addr:city": "Greenock",
+        "addr:country": "GB",
+        "addr:postcode": "PA15 2UT",
+        "addr:street": "East Hamilton Street",
+        "capacity": "140 berths",
+        "contact:phone": "+44 1475 729 838",
+        "contact:vhf": "80",
+        "contact:website": "https://www.jameswattdockmarina.co.uk",
+        "leisure": "marina",
+        "name": "James Watt Dock Marina",
+        "seamark:harbour:category": "marina",
+        "seamark:type": "harbour"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561610083,
+      "nodes": [
+        1556269349,
+        5415075608,
+        5415075607,
+        5415075606,
+        1556269349
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Ardencaple Castle",
+        "seamark:information": "Visible 335° - 020°",
+        "seamark:light:category": "vertical",
+        "seamark:light:character": "F",
+        "seamark:light:colour": "green",
+        "seamark:light:height": "26",
+        "seamark:light:multiple": "2",
+        "seamark:light:range": "12",
+        "seamark:light:reference": "A 4422.1",
+        "seamark:light:visibility": "part_obscured",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 114. 2011-05-26.",
+        "wikidata": "Q1291082",
+        "wikipedia": "en:Ardencaple Castle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 672283866,
+      "nodes": [
+        6295491932,
+        6307612116,
+        6295491931,
+        6295491930,
+        6295491929
+      ],
+      "tags": {
+        "seamark:type": "fairway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 675670350,
+      "nodes": [
+        6327562801,
+        6327562802,
+        6327562803,
+        6327562804,
+        6327562805,
+        6327562806,
+        6327562807,
+        6327562808,
+        6327562809,
+        6327562801
+      ],
+      "tags": {
+        "description": "Helensburgh Sailing Club mooring buoys",
+        "seamark:anchorage:category": "small_craft_mooring",
+        "seamark:type": "anchorage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 891473206,
+      "nodes": [
+        8286010297,
+        2456443284
+      ],
+      "tags": {
+        "access": "private",
+        "leisure": "slipway",
+        "operator": "RNLI",
+        "seamark:small_craft_facility:category": "slipway",
+        "seamark:type": "small_craft_facility"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6295491932,
+      "lat": 55.7199961,
+      "lon": -4.9873412
+    },
+    {
+      "type": "node",
+      "id": 6307612116,
+      "lat": 55.826733,
+      "lon": -4.9507012
+    },
+    {
+      "type": "node",
+      "id": 6295491931,
+      "lat": 55.9334464,
+      "lon": -4.9141601
+    },
+    {
+      "type": "node",
+      "id": 6295491930,
+      "lat": 55.9684972,
+      "lon": -4.8444323,
+      "tags": {
+        "ele": "0",
+        "name": "3",
+        "seamark:buoy_safe_water:colour": "red;white",
+        "seamark:buoy_safe_water:colour_pattern": "vertical",
+        "seamark:buoy_safe_water:shape": "pillar",
+        "seamark:light:character": "Iso",
+        "seamark:light:colour": "white",
+        "seamark:light:period": "5",
+        "seamark:name": "Ashton",
+        "seamark:topmark:colour": "red",
+        "seamark:topmark:shape": "sphere",
+        "seamark:type": "buoy_safe_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1339436819,
+      "lat": 55.9436545,
+      "lon": -4.7292333
+    },
+    {
+      "type": "node",
+      "id": 1339436842,
+      "lat": 55.9440275,
+      "lon": -4.7266289
+    },
+    {
+      "type": "node",
+      "id": 4422821012,
+      "lat": 55.9438589,
+      "lon": -4.7286621
+    },
+    {
+      "type": "node",
+      "id": 4422821027,
+      "lat": 55.9439971,
+      "lon": -4.7279526
+    },
+    {
+      "type": "node",
+      "id": 4422821033,
+      "lat": 55.9440425,
+      "lon": -4.7266558
+    },
+    {
+      "type": "node",
+      "id": 4422821034,
+      "lat": 55.9440657,
+      "lon": -4.7266723
+    },
+    {
+      "type": "node",
+      "id": 1339436820,
+      "lat": 55.9433391,
+      "lon": -4.7239386
+    },
+    {
+      "type": "node",
+      "id": 1339436829,
+      "lat": 55.9428299,
+      "lon": -4.7243396
+    },
+    {
+      "type": "node",
+      "id": 1339436838,
+      "lat": 55.9424709,
+      "lon": -4.7246414
+    },
+    {
+      "type": "node",
+      "id": 1339436839,
+      "lat": 55.9429636,
+      "lon": -4.7242337
+    },
+    {
+      "type": "node",
+      "id": 6295491929,
+      "lat": 55.9686927,
+      "lon": -4.7882477
+    },
+    {
+      "type": "node",
+      "id": 6327562805,
+      "lat": 56.009714,
+      "lon": -4.7714786
+    },
+    {
+      "type": "node",
+      "id": 6327562802,
+      "lat": 56.0068168,
+      "lon": -4.7665326
+    },
+    {
+      "type": "node",
+      "id": 6327562803,
+      "lat": 56.0069968,
+      "lon": -4.7674768
+    },
+    {
+      "type": "node",
+      "id": 6327562804,
+      "lat": 56.0086823,
+      "lon": -4.7709207
+    },
+    {
+      "type": "node",
+      "id": 6327562808,
+      "lat": 56.0094561,
+      "lon": -4.7644941
+    },
+    {
+      "type": "node",
+      "id": 6327562809,
+      "lat": 56.0080345,
+      "lon": -4.7646443
+    },
+    {
+      "type": "node",
+      "id": 6327562801,
+      "lat": 56.0067809,
+      "lon": -4.7639148
+    },
+    {
+      "type": "node",
+      "id": 1556269349,
+      "lat": 56.0091108,
+      "lon": -4.7570407
+    },
+    {
+      "type": "node",
+      "id": 5415075606,
+      "lat": 56.0091102,
+      "lon": -4.7569565
+    },
+    {
+      "type": "node",
+      "id": 5415075607,
+      "lat": 56.0091502,
+      "lon": -4.7569556
+    },
+    {
+      "type": "node",
+      "id": 5415075608,
+      "lat": 56.0091508,
+      "lon": -4.7570398
+    },
+    {
+      "type": "node",
+      "id": 13607653,
+      "lat": 56.0127552,
+      "lon": -4.7982775
+    },
+    {
+      "type": "node",
+      "id": 13607660,
+      "lat": 56.0127936,
+      "lon": -4.7983169
+    },
+    {
+      "type": "node",
+      "id": 13607663,
+      "lat": 56.0130156,
+      "lon": -4.7983169
+    },
+    {
+      "type": "node",
+      "id": 13607669,
+      "lat": 56.0131415,
+      "lon": -4.7989607
+    },
+    {
+      "type": "node",
+      "id": 13607676,
+      "lat": 56.0134304,
+      "lon": -4.7992644
+    },
+    {
+      "type": "node",
+      "id": 1007232907,
+      "lat": 56.0126084,
+      "lon": -4.8012933
+    },
+    {
+      "type": "node",
+      "id": 1084136537,
+      "lat": 56.0125856,
+      "lon": -4.7981721
+    },
+    {
+      "type": "node",
+      "id": 1084137008,
+      "lat": 56.0123697,
+      "lon": -4.7981935
+    },
+    {
+      "type": "node",
+      "id": 2456447561,
+      "lat": 56.0118633,
+      "lon": -4.7995614
+    },
+    {
+      "type": "node",
+      "id": 2456447568,
+      "lat": 56.0121007,
+      "lon": -4.7991583
+    },
+    {
+      "type": "node",
+      "id": 2456447577,
+      "lat": 56.0122771,
+      "lon": -4.7982377
+    },
+    {
+      "type": "node",
+      "id": 2456447606,
+      "lat": 56.0129036,
+      "lon": -4.7982959
+    },
+    {
+      "type": "node",
+      "id": 2456447611,
+      "lat": 56.0130713,
+      "lon": -4.7984304
+    },
+    {
+      "type": "node",
+      "id": 2456447612,
+      "lat": 56.0131725,
+      "lon": -4.7990147
+    },
+    {
+      "type": "node",
+      "id": 2456447613,
+      "lat": 56.0133156,
+      "lon": -4.7990665
+    },
+    {
+      "type": "node",
+      "id": 2456447619,
+      "lat": 56.0135367,
+      "lon": -4.7996793
+    },
+    {
+      "type": "node",
+      "id": 2456447624,
+      "lat": 56.0134264,
+      "lon": -4.8017486
+    },
+    {
+      "type": "node",
+      "id": 2456447625,
+      "lat": 56.0133581,
+      "lon": -4.8007225
+    },
+    {
+      "type": "node",
+      "id": 9678138417,
+      "lat": 56.0137071,
+      "lon": -4.8000194
+    },
+    {
+      "type": "node",
+      "id": 9678138418,
+      "lat": 56.0134336,
+      "lon": -4.8004376
+    },
+    {
+      "type": "node",
+      "id": 9678138419,
+      "lat": 56.0133816,
+      "lon": -4.8005789
+    },
+    {
+      "type": "node",
+      "id": 9678138420,
+      "lat": 56.0119068,
+      "lon": -4.7995368
+    },
+    {
+      "type": "node",
+      "id": 9678138421,
+      "lat": 56.0119508,
+      "lon": -4.8002954
+    },
+    {
+      "type": "node",
+      "id": 9678138422,
+      "lat": 56.0121231,
+      "lon": -4.8003959
+    },
+    {
+      "type": "node",
+      "id": 9678138423,
+      "lat": 56.0122307,
+      "lon": -4.8006614
+    },
+    {
+      "type": "node",
+      "id": 9678138424,
+      "lat": 56.0123488,
+      "lon": -4.8011463
+    },
+    {
+      "type": "node",
+      "id": 9678138425,
+      "lat": 56.0123913,
+      "lon": -4.8008899
+    },
+    {
+      "type": "node",
+      "id": 9678138426,
+      "lat": 56.0122085,
+      "lon": -4.8007933
+    },
+    {
+      "type": "node",
+      "id": 2456443284,
+      "lat": 56.0125862,
+      "lon": -4.7736042
+    },
+    {
+      "type": "node",
+      "id": 2456443310,
+      "lat": 56.0129692,
+      "lon": -4.7733744
+    },
+    {
+      "type": "node",
+      "id": 2456443311,
+      "lat": 56.0129809,
+      "lon": -4.7735113
+    },
+    {
+      "type": "node",
+      "id": 2456443327,
+      "lat": 56.0131713,
+      "lon": -4.773319
+    },
+    {
+      "type": "node",
+      "id": 2456443329,
+      "lat": 56.013183,
+      "lon": -4.7734559
+    },
+    {
+      "type": "node",
+      "id": 8286010297,
+      "lat": 56.0129783,
+      "lon": -4.7734803
+    },
+    {
+      "type": "node",
+      "id": 6327562806,
+      "lat": 56.0106676,
+      "lon": -4.7701804
+    },
+    {
+      "type": "node",
+      "id": 6327562807,
+      "lat": 56.0110215,
+      "lon": -4.7678308
+    }
+  ]
+}
