@@ -35,6 +35,7 @@ gpx_footer = """
 """
 
 types_to_process = ['buoy', 'beacon', 'wreck', 'mooring']
+ignored_nodes = []
 ignored_types = []
 used_symbols = []
 
@@ -85,7 +86,7 @@ def get_waypoint_xml(name, lat, long, time, data_dict, link=''):
         if seamark_type.startswith(prefix):
             process = True
     if not process:
-        print(f'Ignoring {name} type {seamark_type}')
+        ignored_nodes.append(f'{name} type {seamark_type}')
         if seamark_type not in ignored_types:
             ignored_types.append(seamark_type)
         return ''
@@ -106,9 +107,9 @@ def get_waypoint_xml(name, lat, long, time, data_dict, link=''):
 def process_gpx(input_path, output_path):
     tree = etree.parse(input_path)
     namespaces = {'ns': tree.getroot().nsmap[None]}
-    with open(output_path, 'w') as writer:
+    with open(output_path, 'w') as gpx:
         time = datetime.datetime.now().isoformat()
-        writer.write(gpx_header)
+        gpx.write(gpx_header)
         for x in tree.xpath('//ns:wpt', namespaces=namespaces):
             name = get_xpath_value(x.xpath('.//ns:name/text()', namespaces=namespaces))
             lat = get_xpath_value(x.xpath('.//@lat', namespaces=namespaces))
@@ -122,16 +123,16 @@ def process_gpx(input_path, output_path):
                 data_dict[key_value[0]] = key_value[1]
             waypoint_xml = get_waypoint_xml(name, lat, long, time, data_dict, link=link)
             if waypoint_xml:
-                writer.write(waypoint_xml)
-        writer.write(gpx_footer)
+                gpx.write(waypoint_xml)
+        gpx.write(gpx_footer)
 
 
 def process_kml(input_path, output_path):
     tree = etree.parse(input_path)
     namespaces = {'ns': tree.getroot().nsmap[None]}
-    with open(output_path, 'w') as writer:
+    with open(output_path, 'w') as kml:
         time = datetime.datetime.now().isoformat()
-        writer.write(gpx_header)
+        kml.write(gpx_header)
         for x in tree.xpath('//ns:Placemark[.//ns:Point]', namespaces=namespaces):
             coordinates = get_xpath_value(x.xpath('.//ns:coordinates/text()', namespaces=namespaces))
             coordinates = coordinates.split(',')
@@ -142,8 +143,8 @@ def process_kml(input_path, output_path):
             name = get_xpath_value(x.xpath('.//ns:name/text()', namespaces=namespaces), default=data_dict['@id'])
             waypoint_xml = get_waypoint_xml(name, coordinates[1], coordinates[0], time, data_dict, link='')
             if waypoint_xml:
-                writer.write(waypoint_xml)
-        writer.write(gpx_footer)
+                kml.write(waypoint_xml)
+        kml.write(gpx_footer)
 
 
 if __name__ == '__main__':
@@ -155,5 +156,10 @@ if __name__ == '__main__':
                 os.path.join(results_dir, 'osm2mm.gpx'))
     ignored_types.sort()
     used_symbols.sort()
-    print(f'Ignored types: {ignored_types}')
-    print(f'Used Symbols: {used_symbols}')
+    nl = '\n\t'
+    summary = (f'Ignored nodes:{nl}{nl.join(ignored_nodes)}\n' +
+               f'Ignored types:{nl}{nl.join(ignored_types)}\n' +
+               f'Used Symbols:{nl}{nl.join(used_symbols)}\n')
+    print(summary)
+    with open(os.path.join(results_dir, 'summary.txt'), 'w') as summary_file:
+        summary_file.write(summary)
