@@ -3,6 +3,8 @@ import datetime
 
 from lxml import etree
 
+# Use https://overpass-turbo.eu/ to export to gpx
+
 gpx_header = """
 <?xml version="1.0" encoding="UTF-8" ?>
 <gpx version="1.1" 
@@ -32,14 +34,19 @@ gpx_footer = """
 </gpx>
 """
 
+types_to_process = ['buoy', 'beacon', 'wreck', 'mooring']
+ignored_types = []
+used_symbols = []
+
 
 def get_xpath_value(result, default=''):
     if len(result) > 0:
         return result[0]
     return default
 
+
 def get_color(data_dict, symbol):
-    if symbol in ['wreck', 'buoy_cardinal']:
+    if symbol in ['wreck']:
         return '000000'
     for key, value in data_dict.items():
         if 'colour' in key and 'light' not in key:
@@ -53,27 +60,34 @@ def get_color(data_dict, symbol):
 
 
 def get_symbol(data_dict):
-    if data_dict['seamark:type'] == 'wreck':
-        return 'wreck'
-    if 'cardinal' in data_dict['seamark:type']:
-        return 'buoy_cardinal'
-    if 'can' in data_dict.values():
-        return 'buoy_can'
-    if 'conical' in data_dict.values():
-        return 'buoy_conical'
-    if 'spherical' in data_dict.values():
+    if data_dict['seamark:type'] == 'buoy_special_purpose':
         return 'buoy_round'
-    if 'pillar' in data_dict.values():
-        return 'Pin'
-    return 'Flag'
+    if 'cardinal' in data_dict['seamark:type']:
+        return f'buoy_cardinal_{data_dict["seamark:buoy_cardinal:category"]}'
+    if data_dict['seamark:type'] in ['beacon_lateral', 'buoy_lateral']:
+        if 'can' in data_dict.values():
+            return 'buoy_can'
+        if 'conical' in data_dict.values():
+            return 'buoy_conical'
+        if 'spherical' in data_dict.values():
+            return 'buoy_round'
+        if 'pillar' in data_dict.values():
+            return 'pillar'
+    return data_dict['seamark:type']
+
 
 def get_waypoint_xml(name, lat, long, time, data_dict, link=''):
     if 'seamark:type' not in data_dict.keys():
         return ''
-    if not data_dict['seamark:type'].startswith('buoy') \
-            and not data_dict['seamark:type'].startswith('beacon') \
-            and not data_dict['seamark:type'].startswith('wreck'):
-        print(f'Ignoring {name} type {data_dict["seamark:type"]}')
+    process = False
+    seamark_type = data_dict['seamark:type']
+    for prefix in types_to_process:
+        if seamark_type.startswith(prefix):
+            process = True
+    if not process:
+        print(f'Ignoring {name} type {seamark_type}')
+        if seamark_type not in ignored_types:
+            ignored_types.append(seamark_type)
         return ''
     if 'seamark:name' in data_dict.keys():
         name = data_dict["seamark:name"]
@@ -82,6 +96,8 @@ def get_waypoint_xml(name, lat, long, time, data_dict, link=''):
         desc += f'{key}={data_dict[key]}\n'
     href = link
     sym = get_symbol(data_dict)
+    if sym not in used_symbols:
+        used_symbols.append(sym)
     color = get_color(data_dict, sym)
     return gpx_waypoint.format(lat=lat, long=long, time=time,
                                name=name, desc=desc, href=href, sym=sym, color=color)
@@ -137,3 +153,7 @@ if __name__ == '__main__':
         os.makedirs(results_dir)
     process_gpx(os.path.join(data_dir, 'export.gpx'),
                 os.path.join(results_dir, 'osm2mm.gpx'))
+    ignored_types.sort()
+    used_symbols.sort()
+    print(f'Ignored types: {ignored_types}')
+    print(f'Used Symbols: {used_symbols}')
